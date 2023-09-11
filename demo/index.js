@@ -10,7 +10,7 @@ osm.addTo(map);
 
 try {
   L.geoPackageFeatureLayer([], {
-    geoPackageUrl: 'https://github.com/josemamira/qfield_cefire/raw/main/qfield/master/especies.gpkg',
+    geoPackageUrl: 'https://github.com/josemamira/qfield_cefire/blob/main/qfield/master/especies.gpkg',
     layerName: 'especies',
     style: function(feature) {
       return {
