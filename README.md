@@ -5,9 +5,8 @@ Proyecto de Qfield-Qgis para demostración de trabajo de campo
 
 - [Documentación abreviada](doc/manual_abreviado.md)
 - [Documentación extendida](doc/manual.md)
-- [a relative link](doc/manual.md)
-- [Documentación abreviada](doc/manual.md)
-- [Documentación extendida](doc/manual.md)
+
+Autor: [José Manuel Mira Martínez](https://github.com/josemamira)
 
 
 
