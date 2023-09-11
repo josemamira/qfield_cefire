@@ -10,6 +10,7 @@ Proyecto de Qfield-Qgis para demostración de trabajo de campo
 
 Autor: [José Manuel Mira Martínez](https://github.com/josemamira)
 
+
 **Parte 2: Explotando la información de H2OMaps**
 - Visualización (https://mapache.uji.es/)
 - Edición (https://mapache.uji.es/upload)
