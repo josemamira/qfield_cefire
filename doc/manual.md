@@ -24,6 +24,7 @@ aplicación para la captura de datos en campo haciendo uso del GPS
     -   Añadir fotografías
 
 -   Sincronización de datos del campo con el proyecto de Qgis
+  
 
 **REQUERIMIENTOS**
 
@@ -37,6 +38,7 @@ aplicación para la captura de datos en campo haciendo uso del GPS
 
     -   Cable USB para transferir contenido del móvil al PC
 
+
 **DOCUMENTACIÓN**:
 
 Para el trabajo de campo:
@@ -48,6 +50,7 @@ Para Qfield:
 -   Leer: <https://docs.qfield.org/es/how-to/attributes-form/>
 
 -   Qfield website: <https://qfield.org/>
+
 
 **ESPECIES PARA INVENTARIAR**
 
@@ -201,6 +204,7 @@ Ejemplo captura:
 ![](img/media/image5.png){width="4.75in"
 height="4.854166666666667in"}
 
+
 **DISEÑO DEL FORMULARIO**
 ___
 Identificador:
@@ -307,6 +311,7 @@ fichero JPG
 
 ![](img/media/image7.png)
 
+
 **GENERAR MBTILES**
 ===
 
@@ -327,6 +332,7 @@ procedente del WMS del PNOA ( <http://www.ign.es/wms-inspire/pnoa-ma> )
 -   Añade la layer Mbtiles creada a la TOC y arrástrala al grupo "FONDO"
 
 ![](img/media/image8.png)
+
 
 **CREAR PROYECTO PORTABLE PARA QFIELD**
 ===
@@ -374,6 +380,7 @@ ch.opengis.qfield→ files → Imported Projects
 
 **9. Trabajar con Qfield**
 ===
+
 
 **SINCRONIZAR**
 
