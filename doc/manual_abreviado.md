@@ -4,7 +4,7 @@
 
 - Copia la carpeta "qfield" a la raiz de C:\
 
-- Instala Qfield en el móvil. Abre un proyecto de ejemplo (para que se creen las carpetas de trabajo), y sal de Qfield
+- Instala [Qfield](https://play.google.com/store/apps/details?id=ch.opengis.qfield&hl=es_CR&pli=1) en el móvil. Abre un proyecto de ejemplo (para que se creen las carpetas de trabajo), y sal de Qfield
 
 - Abre el proyecto de Qgis "master\especies.qgz"
 
