@@ -8,7 +8,7 @@
 
 - Empaqueta el proyecto con Qfield sync, o bien copia la carpeta **"exportar\proyecto_08092023"** al móvil, dentro de:
 
->Este equipo\<nombre de tu móvil>\Almacenamiento interno compartido\Android\data\ch.opengis.qfield\files\Imported Projects*
+>Este equipo\<nombre de tu móvil>\Almacenamiento interno compartido\Android\data\ch.opengis.qfield\files\Imported Projects
 
 - Sal al campo y recopila información puntual con Qfield abriendo el proyecto : **proyecto_08092023\especies_qfield.qgs**
 
