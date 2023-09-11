@@ -86,7 +86,7 @@ Listado obtenido del PDF
 | 26 Morera. *Morus alba* | [![](img/img/26.png) |
 
 
-#FASES DE TRABAJO
+# FASES DE TRABAJO
 
 **0\. Crea una carpeta llamada "practica_qfield" donde ubicarás todos los
 datos de la práctica**
