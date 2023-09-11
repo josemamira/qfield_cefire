@@ -1,5 +1,7 @@
 # MANUAL ABREVIADO
 
+- Descargar [ZIP]([http://example.net/](https://github.com/josemamira/qfield_cefire/archive/refs/heads/main.zip) de este repositorio. Descomprimir
+
 - Copia la carpeta "qfield" a la raiz de C:\
 
 - Instala Qfield en el móvil. Abre un proyecto de ejemplo (para que se creen las carpetas de trabajo), y sal de Qfield
