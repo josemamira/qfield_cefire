@@ -20,3 +20,9 @@
 - En el PC abre el proyecto **"C:\qfield\master\especies.qgz"** y sincroniza con la carpeta **"C:\qfield\import\proyecto_08092023"**
 
 - Comprueba el resultado
+
+# RESULTADO
+
+| Antes | Después |
+| ------ | ------ |
+| [![](img/antes.png) | [![](img/despues.png) |
