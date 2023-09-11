@@ -169,7 +169,7 @@ Ejemplo captura:
     en el grupo "TABLAS")
 
 
-#DISEÑO
+# DISEÑO
 
 
 **5\. Modificar *formulario* para facilitar la toma de datos**
@@ -295,7 +295,7 @@ fichero JPG
 ![](img/media/image7.png)
 
 
-#GENERAR MBTILES
+# GENERAR MBTILES
 
 
 **6\. Generar una conjunto de tiles agrupadas en un contenedor MBTILES procedente del WMS del PNOA ( <http://www.ign.es/wms-inspire/pnoa-ma> )**
@@ -316,7 +316,7 @@ fichero JPG
 ![](img/media/image8.png)
 
 
-#CREAR PROYECTO PORTABLE PARA QFIELD
+# CREAR PROYECTO PORTABLE PARA QFIELD
 ===
 
 **7\. Instalar el complemento "Qfield Sync"**
@@ -360,7 +360,7 @@ ch.opengis.qfield→ files → Imported Projects
 ![](img/media/image13.png)
 
 
-#Trabajar con Qfield
+# Trabajar con Qfield
 
 
 **SINCRONIZAR**
