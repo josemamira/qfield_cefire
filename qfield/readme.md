@@ -1,6 +1,8 @@
 # MANUAL ABREVIADO
 
-> Nota: `REQUERIMIENTO:` Copia la carpeta **"qfield"** a la raiz de **C:\**
+>
+> Nota: `REQUERIMIENTO:` Copia la carpeta **"qfield"** a la raiz del disco duro (C:\)
+>
 
 - Instala Qfield en el móvil. Abre un proyecto de ejemplo (para que se creen las carpetas de trabajo), y sal de Qfield
 
