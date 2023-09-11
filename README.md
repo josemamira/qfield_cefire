@@ -5,10 +5,10 @@ Proyecto de Qfield-Qgis para demostración de trabajo de campo
 
 **Flujo de trabajo**
 
-![](img/flujo.png)
+![](doc/img/flujo.png)
 
 Roles
-![](img/flujo.png)
+![](doc/img/diagrama_flujo_english.svg.png)
  
 
 
