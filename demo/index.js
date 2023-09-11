@@ -14,9 +14,16 @@ try {
     layerName: 'especies',
     style: function(feature) {
       return {
+        radius: 8,
+				fillColor: '#ff7800',
+				color: '#000',
+				weight: 1,
+				opacity: 1,
+				fillOpacity: 0.8
+          /*
          "color": "#ff7800",
          "weight": 5,
-         "opacity": 0.65
+         "opacity": 0.65*/
       };
     }
   }).addTo(map);
