@@ -1,19 +1,20 @@
-Copia la carpeta "qfield" a la raiz de C:\
+# MANUAL ABREVIADO
 
-1. Instala Qfield en el móvil. Abre un proyecto de ejemplo (para que se creen las carpetas de trabajo), y sal de Qfield
+- Copia la carpeta "qfield" a la raiz de C:\
 
-2. Abre el proyecto de Qgis "master\especies.qgz"
+- Instala Qfield en el móvil. Abre un proyecto de ejemplo (para que se creen las carpetas de trabajo), y sal de Qfield
 
-3. Empequeta el proyecto con Qfield sync, o bien copia la carpeta "exportar\proyecto_08092023 al móvil, dentro de:
-Este equipo\<nombre de tu móvil>\Almacenamiento interno compartido\Android\data\ch.opengis.qfield\files\Imported Projects
+- Abre el proyecto de Qgis "master\especies.qgz"
 
-4. Sal al campo y recopila información puntual con Qfield abriendo el proyecto :
-proyecto_08092023\especies_qfield.qgs
+- Empaqueta el proyecto con Qfield sync, o bien copia la carpeta "exportar\proyecto_08092023 al móvil, dentro de: 
+*Este equipo\<nombre de tu móvil>\Almacenamiento interno compartido\Android\data\ch.opengis.qfield\files\Imported Projects*
 
-Sal de Qfield cuando termines
+- Sal al campo y recopila información puntual con Qfield abriendo el proyecto : **proyecto_08092023\especies_qfield.qgs**
 
-5. Copia la carpeta del móvil "proyecto_08092023" a la carpeta  "C:\qfield\import\"
+- Sal de Qfield cuando termines
 
-5. En el PC abre el proyecto "C:\qfield\master\especies.qgz" y sincroniza con la carpeta "C:\qfield\import\proyecto_08092023"
+- Copia la carpeta del móvil **"proyecto_08092023"** a la carpeta **"C:\qfield\import"**
 
-Comprueba el resultado
+- En el PC abre el proyecto **"C:\qfield\master\especies.qgz"** y sincroniza con la carpeta **"C:\qfield\import\proyecto_08092023"**
+
+- Comprueba el resultado
