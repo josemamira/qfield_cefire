@@ -86,12 +86,13 @@ Listado obtenido del PDF
 | 26 Morera. *Morus alba* | [![](img/img/26.png) |
 
 
-**FASES DE TRABAJO**
+#FASES DE TRABAJO
 
-0\. Crea una carpeta llamada "practica_qfield" donde ubicarás todos los
-datos de la práctica
+**0\. Crea una carpeta llamada "practica_qfield" donde ubicarás todos los
+datos de la práctica**
 
-1\. Generar un proyecto en Qgis
+
+**1\. Generar un proyecto en Qgis**
 
 -   SRC Mercator (EPSG: 3857)
 
@@ -101,10 +102,12 @@ datos de la práctica
 
 -   Crear 2 grupos": FONDO, TABLAS. En FONDO pondrás las 2 capas ráster.
 
-2\. Crear una base de datos GPKG, llamada especies, con el Browser
 
-3\. Crear una (geo)tabla de puntos llamada "especies" (SRC: 4326) con
-esta estructura:
+**2\. Crear una base de datos GPKG, llamada especies, con el Browser**
+
+
+**3\. Crear una (geo)tabla de puntos llamada "especies" (SRC: 4326) con
+esta estructura:**
 
 Ejemplo captura:
 
@@ -154,7 +157,7 @@ Ejemplo captura:
 
 -   \"enf_caracoles\" BOOLEAN
 
-4\. Añadir a la TOC la tabla con las especies: **especies.ods**
+**4\. Añadir a la TOC la tabla con las especies: *especies.ods* **
 
 -   Renombrarla como tabla "listado_especies"
 
@@ -165,9 +168,11 @@ Ejemplo captura:
 -   Añadir la tabla "listado_especies" del GPKG al TOC (preferentemente
     en el grupo "TABLAS")
 
-**DISEÑO**
 
-5\. Modificar **formulario** para facilitar la toma de datos
+#DISEÑO
+
+
+**5\. Modificar *formulario* para facilitar la toma de datos**
 
 -   Poner el diseño en modo: Diseñador de arrastrar y soltar
 
@@ -290,11 +295,10 @@ fichero JPG
 ![](img/media/image7.png)
 
 
-**GENERAR MBTILES**
-===
+#GENERAR MBTILES
 
-6\. Generar una conjunto de tiles agrupadas en un contenedor MBTILES
-procedente del WMS del PNOA ( <http://www.ign.es/wms-inspire/pnoa-ma> )
+
+**6\. Generar una conjunto de tiles agrupadas en un contenedor MBTILES procedente del WMS del PNOA ( <http://www.ign.es/wms-inspire/pnoa-ma> )**
 
 -   Comando: Generar teselas XYZ (Mbtiles)
 
@@ -312,19 +316,19 @@ procedente del WMS del PNOA ( <http://www.ign.es/wms-inspire/pnoa-ma> )
 ![](img/media/image8.png)
 
 
-**CREAR PROYECTO PORTABLE PARA QFIELD**
+#CREAR PROYECTO PORTABLE PARA QFIELD
 ===
 
-7\. Instalar el complemento "Qfield Sync"
+**7\. Instalar el complemento "Qfield Sync"**
 
 ![](img/media/image9.png)
 
-8\. Configurar el proyecto para Qfield
+
+**8\. Configurar el proyecto para Qfield**
 
 ![](img/media/image10.png)
 
-7\. Generar el proyecto "portable" (Empaquetar) para utilizar con la App
-Qfield
+**9\. Generar el proyecto "portable" (Empaquetar) para utilizar con la App Qfield**
 
 -   Crea 2 carpetas dentro de la carpeta "practica_qfield"
 
@@ -346,8 +350,7 @@ Se generarán estos archivos:
 ![](img/media/image12.png)
 
 
-8\. Copiar desde el PC la carpeta empaquetada al móvil utilizando el
-cable USB
+**10\. Copiar desde el PC la carpeta empaquetada al móvil utilizando el cable USB**
 
 La ruta en el móvil es la siguiente:
 
@@ -356,16 +359,16 @@ ch.opengis.qfield→ files → Imported Projects
 
 ![](img/media/image13.png)
 
-**9. Trabajar con Qfield**
-===
+
+#Trabajar con Qfield
 
 
 **SINCRONIZAR**
 
-10\. Copiar la carpeta de trabajo del móvil al PC, dentro de la carpeta
+12\. Copiar la carpeta de trabajo del móvil al PC, dentro de la carpeta
 "importado"
 
-11\. Sincronizar desde Qfield utlizando el icono correspondiente del
+12\. Sincronizar desde Qfield utlizando el icono correspondiente del
 complemento Qfield Sync
 
 **NOTA 1:** Tras un tiempo (ten paciencia) podrás ver como aparecen las
