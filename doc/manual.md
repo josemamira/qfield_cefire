@@ -56,57 +56,35 @@ Para Qfield:
 
 Listado obtenido del PDF
 
-1 Palmera helecho. Cycas circinalis
+| Especie | Imagen |
+| ------ | ------ |
+| 1 Palmera helecho. *Cycas circinalis* | [![](img/img/1.png) |
+| 2 Palmera mexicana. *Washingtonia robusta* | [![](img/img/2.png) |
+| 3 Ciprés común. Cupressus sempervirens | [![](img/img/3.png) |
+| 4 Olivo. *Olea europaea* | [![](img/img/4.png) |
+| 5 Palo borracho. *Chorisia speciosa* | [![](img/img/5.png) |
+| 6 Laurel de indias. *Ficus microcarpa* | [![](img/img/6.png) |
+| 7 Plátano de sombra. *Platanus orientalis* | [![](img/img/7.png) |
+| 8 Jacaranda. *Jacaranda mimosifolia* | [![](img/img/8.png) |
+| 9 Almez. Llidoner. *Celtis australis* | [![](img/img/9.png) |
+| 10 Árbol del amor. *Cercis siliquastrum* | [![](img/img/10.png) |
+| 11 Pie de elefante. *Yucca elephantipes* | [![](img/img/11.png) |
+| 12 Candelabro. *Euphorbia candelabrum* | [![](img/img/12.png) |
+| 13 Aloe vera. *Aloe vera* | [![](img/img/13.png) |
+| 14 Cuello de cisne. *Agave attenuata* | [![](img/img/14.png) |
+| 15 Cactus barril. Asiento de la suegra. *Echinocactus grusonii* | [![](img/img/15.png) |
+| 16 Drago de canarias. *Dracaena draco* | [![](img/img/16.png) |
+| 17 Palmito. Margalló. *Chamaerops humilis* | [![](img/img/17.png) |
+| 18 Falsa platanera. *Strelitzia augusta* | [![](img/img/18.png) |
+| 19 Kentia. Palmera rizada. *Howea belmoreana* | [![](img/img/19.png) |
+| 20 Encina. Carrasca. *Quercus ilex* | [![](img/img/20.png) |
+| 21 Buganvilla. *Bougainvillea sp.* | [![](img/img/21.png) |
+| 22 Eucalipto blanco. *Eucalyptus globulus* | [![](img/img/22.png) |
+| 23 Higuera australiana. *Ficus macrophylla* | [![](img/img/23.png) |
+| 24 Pino de pisos. *Araucaria heterophylla* | [![](img/img/24.png) |
+| 25 Quejigo. *Quercus faginea* | [![](img/img/25.png) |
+| 26 Morera. *Morus alba* | [![](img/img/26.png) |
 
-2 Palmera mexicana. Washingtonia robusta
-
-3 Ciprés común. Cupressus sempervirens
-
-4 Olivo. Olea europaea
-
-5 Palo borracho. Chorisia speciosa
-
-6 Laurel de indias. Ficus microcarpa
-
-7 Plátano de sombra. Platanus orientalis
-
-8 Jacaranda. Jacaranda mimosifolia
-
-9 Almez. Llidoner. Celtis australis
-
-10 Árbol del amor. Cercis siliquastrum
-
-11 Pie de elefante. Yucca elephantipes
-
-12 Candelabro. Euphorbia candelabrum
-
-13 Aloe vera. Aloe vera
-
-14 Cuello de cisne. Agave attenuata
-
-15 Cactus barril. Asiento de la suegra. Echinocactus grusonii
-
-16 Drago de canarias. Dracaena draco
-
-17 Palmito. Margalló. Chamaerops humilis
-
-18 Falsa platanera. Strelitzia augusta
-
-19 Kentia. Palmera rizada. Howea belmoreana
-
-20 Encina. Carrasca. Quercus ilex
-
-21 Buganvilla. Bougainvillea sp.
-
-22 Eucalipto blanco. Eucalyptus globulus
-
-23 Higuera australiana. Ficus macrophylla
-
-24 Pino de pisos. Araucaria heterophylla
-
-25 Quejigo. Quercus faginea
-
-26 Morera. Morus alba
 
 **FASES DE TRABAJO**
 
