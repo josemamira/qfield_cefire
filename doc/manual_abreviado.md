@@ -1,6 +1,6 @@
 # MANUAL ABREVIADO
 
-- Descargar [ZIP]([http://example.net/](https://github.com/josemamira/qfield_cefire/archive/refs/heads/main.zip) de este repositorio. Descomprimir
+- Descargar [ZIP](https://github.com/josemamira/qfield_cefire/archive/refs/heads/main.zip) de este repositorio. Descomprimir
 
 - Copia la carpeta "qfield" a la raiz de C:\
 
