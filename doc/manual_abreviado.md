@@ -25,4 +25,4 @@
 
 | Antes | Después |
 | ------ | ------ |
-| [![](img/antes.png) | [![](img/despues.png) |
+| [Antes](img/antes.png) | [![](img/despues.png) |
