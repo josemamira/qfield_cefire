@@ -7,7 +7,7 @@ Proyecto de Qfield-Qgis para demostración de trabajo de campo
 
 ![](doc/img/flujo.png)
 
-Roles
+**Roles**
 ![](doc/img/diagrama_flujo_english.svg.png)
  
 
