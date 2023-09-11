@@ -3,6 +3,11 @@
 Proyecto de Qfield-Qgis para demostración de trabajo de campo
 (https://josemamira.github.io/qfield_cefire)
 
+**Flujo de trabajo**
+ [![](img/flujo.png)
+ 
+
+
 **Parte 1: Trabajando con especies**
 
 - [Documentación abreviada](doc/manual_abreviado.md)
