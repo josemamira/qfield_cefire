@@ -22,7 +22,8 @@ Proyecto de Qfield-Qgis para demostración de trabajo de campo
 - Edición (https://mapache.uji.es/upload)
 
 **Demo**
-Demo mapping: [ver](https://josemamira.github.io/qfield_cefire/demo/index.html)
+
+Demo [mapping](https://josemamira.github.io/qfield_cefire/demo/index.html)
 
 
 Autor: [José Manuel Mira Martínez](https://github.com/josemamira)
