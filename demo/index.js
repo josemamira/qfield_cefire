@@ -63,7 +63,7 @@ try {
 		var string = '<span class="labelTitle"><center><strong>'+nombre+'</strong></center></span><br>'+
 					 '<div class="item">' + img + '</div>';
         layer.bindPopup(string);
-    }
+    }	  
 	  
   }).addTo(map);
 } catch (e) {
