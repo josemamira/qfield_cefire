@@ -62,12 +62,8 @@ try {
 
 		var string = '<span class="labelTitle"><center><strong>'+nombre+'</strong></center></span><br>'+
 					 '<div class="item">' + img + '</div>';
-		/*string += nombre;
-		for (var key in feature.properties) {
-			console.log(feature.properties.foto);
-			string += nombre+'<div class="item"><span class="label">' + key + ': </span><span class="value">' + feature.properties[key] + '</span></div>';
-        }*/
         layer.bindPopup(string);
+    }
 	  
   }).addTo(map);
 } catch (e) {
